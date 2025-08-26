@@ -11,7 +11,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-xs-#{$i} {
           margin-left: 8.333333% * $i;
         }
@@ -24,7 +24,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-sm-#{$i} {
           margin-left: 8.333333% * $i;
         }
@@ -37,7 +37,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-md-#{$i} {
           margin-left: 8.333333% * $i;
         }
@@ -50,7 +50,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-lg-#{$i} {
           margin-left: 8.333333% * $i;
         }
@@ -63,7 +63,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-xl-#{$i} {
           margin-left: 8.333333% * $i;
         }
@@ -76,7 +76,7 @@
           width: 8.333333% * $i;
         }
       }
-      @for $i from 1 through 12 {
+      @for $i from 0 through 12 {
         .offset-xxl-#{$i} {
           margin-left: 8.333333% * $i;
         }
