@@ -1,0 +1,11 @@
+@import "./mixin";
+.row {
+  display: flex;
+  flex-flow: row wrap;
+}
+@include Media(340px);
+@include Media(576px);
+@include Media(768px);
+@include Media(992px);
+@include Media(1200px);
+@include Media(1400px);
